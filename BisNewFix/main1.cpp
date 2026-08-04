@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    double tol = 0.0001;
+   double tol = 0.0001;
     int choice;
 
     cout << "Choose method:\n";
