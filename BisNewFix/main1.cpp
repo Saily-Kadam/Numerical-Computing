@@ -5,7 +5,6 @@ using namespace std;
 int main() {
    double tol = 0.0001;
     int choice;
-
     cout << "Choose method:\n";
     cout << "1. Bisection\n";
     cout << "2. Newton-Raphson\n";
